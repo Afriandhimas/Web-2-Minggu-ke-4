@@ -40,7 +40,7 @@ CREATE TABLE `sekolah` (
 --
 
 INSERT INTO `sekolah` (`id`, `nama`, `alamat`, `logo`) VALUES
-(2, 'M Bagus Chalil A', 'Jln Pedurungan Tengah IV No.40', 'stick-man-295293_1280.png');
+(2, 'Afrian Dhimas Antoni', 'Jln Perbalan Purwosari V/760C', 'stick-man-295293_1280.png');
 
 --
 -- Indexes for dumped tables
